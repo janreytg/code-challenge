@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/crims-v-2-api/tests" />
+        <option value="$USER_HOME$/Projects/ipophl-ws/project/tests" />
+        <option value="$PROJECT_DIR$/../../side-quest/oracle-mirror-script/project/tests" />
+        <option value="$PROJECT_DIR$/../../superapp-ws/project/tests" />
+        <option value="$PROJECT_DIR$/../../side-quest/martin/project/tests" />
+        <option value="$PROJECT_DIR$/../../side-quest/oracle-schema-mirror/project/tests" />
+        <option value="$PROJECT_DIR$/project/tests" />
+      </list>
+    </option>
+  </component>
+</project>
