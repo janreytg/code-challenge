@@ -9,6 +9,8 @@
 
   B. Native Laravel
   - RUN composer install
+  - RUN php artisan doctrine:schema:update --force
+  - RUN php artisan app:customer-importer
   - RUN php artisan serve
 
 ## 2. Expectations
