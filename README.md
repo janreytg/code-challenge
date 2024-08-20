@@ -44,7 +44,7 @@
   - Code MUST be submitted in a GitHub repository
     ### done!
 
-## 5. Execution
+## 3. Execution
 
   **API:**
   - GET: {{host}}/api/v1/customers/
