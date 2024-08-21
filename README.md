@@ -48,7 +48,7 @@
 
 ## 3. Execution
 
-  **API:**
+  ## API Endpoints: 
   - GET: {{host}}/api/v1/customers/
   - GET: {{host}}/api/v1/customers/{{customerId}}
     
