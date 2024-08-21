@@ -6,6 +6,8 @@
   - Install docker desktop
   - RUN docker compose / docker-compose up -d --build in repository root
   - RUN docker exec -it customer-ws-app sh (remote the container), then run COMPOSER INTALL
+  - RUN php artisan doctrine:schema:update --force
+  - RUN php artisan app:customer-importer
 
   B. Native Laravel
   - RUN composer install
