@@ -53,4 +53,5 @@
   - GET: {{host}}/api/v1/customers/{{customerId}}
     
   **PHPUnit Testing (TDD)**
-    - php artisan test
+  
+    - RUN php artisan test
